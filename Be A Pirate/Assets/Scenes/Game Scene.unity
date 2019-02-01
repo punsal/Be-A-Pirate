@@ -1060,6 +1060,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9128c9917cf1e6643b9a5b78ae356652, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  idleScale: {x: 1, y: 1, z: 1}
+  pressedScale: {x: 1.02, y: 1.02, z: 1}
 --- !u!4 &1862192403
 Transform:
   m_ObjectHideFlags: 0
